@@ -1,3 +1,3 @@
-# at-ng-14-router-zsczsn
+# ng-router-parent-data-issue
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/at-ng-14-router-zsczsn)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ng-router-parent-data-issue)
