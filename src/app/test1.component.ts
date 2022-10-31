@@ -2,7 +2,10 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-test-1',
-  template: '<p class="container">Test 1 <router-outlet></router-outlet></p>',
+  template: `<div class="container">
+      Test 1 
+      <router-outlet></router-outlet>
+    </div>`,
   styles: [
     `.container {
       border: 1px solid black;
